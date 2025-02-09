@@ -1,0 +1,30 @@
+# Instructions for Setting Up Company Email and Social Media Accounts
+
+## Company Email
+- Suggested Email Format: 
+  - aiagent@owlbanapparel.com
+  - support@owlbanapparel.com
+- You can create the email through your domain provider or a service like Google Workspace or Microsoft 365.
+
+## Social Media Accounts
+1. **Facebook**
+   - Go to [Facebook](https://www.facebook.com).
+   - Click on "Create New Account."
+   - Fill in the required information and choose a username related to your AI Agent.
+
+2. **Twitter**
+   - Go to [Twitter](https://www.twitter.com).
+   - Click on "Sign up."
+   - Follow the prompts to create an account, using a handle that reflects your AI Agent.
+
+3. **Instagram**
+   - Go to [Instagram](https://www.instagram.com).
+   - Click on "Sign up."
+   - Use an email address and create a username that represents your AI Agent.
+
+4. **LinkedIn**
+   - Go to [LinkedIn](https://www.linkedin.com).
+   - Click on "Join now."
+   - Fill in the details to create a company page for your AI Agent.
+
+Feel free to reach out if you need further assistance with any of these steps!

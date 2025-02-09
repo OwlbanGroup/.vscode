@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Assistant - Owlban Apparel</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="chat-styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="products.html">Products</a>
+            <a href="blog.html">Blog</a>
+            <a href="#" id="cart">Cart (0)</a>
+        </nav>
+    </header>
+    
+    <main>
+        <div class="chat-container">
+            <div class="avatar-container">
+                <img src="avatar.png" alt="AI Assistant Avatar" class="avatar-image">
+                <h3>AI Assistant</h3>
+            </div>
+            
+            <div class="chat-messages" id="chat-messages">
+                <!-- Messages will appear here -->
+                <div class="message ai-message">
+                    Hello! I'm your AI assistant. How can I help you today?
+                </div>
+            </div>
+            
+            <div class="chat-input">
+                <input type="text" id="user-input" placeholder="Type your message here...">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Owlban Apparel. All rights reserved.</p>
+    </footer>
+    
+    <script src="chat.js"></script>
+</body>
+</html>

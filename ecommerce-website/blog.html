@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Owlban Apparel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="products.html">Products</a>
+            <a href="blog.html" class="active">Blog</a>
+            <a href="#" id="cart">Cart (0)</a>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="blog-posts">
+            <h2>Latest Articles</h2>
+            <div class="post">
+                <h3>Sample Blog Post Title</h3>
+                <p>Sample content for the blog post goes here...</p>
+            </div>
+            <!-- More blog posts can be added here -->
+        </section>
+
+        <section class="submit-post">
+            <h2>Submit a New Article</h2>
+            <form id="article-form">
+                <input type="text" placeholder="Article Title" required>
+                <textarea placeholder="Write your article here..." required></textarea>
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Owlban Apparel. All rights reserved.</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
