@@ -1,9 +1,11 @@
 # Missed Call Response Plan
 
 ## Objective
+
 Enhance customer service by implementing a system to respond to all missed calls promptly.
 
 ## Areas of Focus
+
 1. **Call Tracking System**
    - Implement a system to log missed calls, including:
      - Caller ID
@@ -23,8 +25,10 @@ Enhance customer service by implementing a system to respond to all missed calls
    - Identify trends or areas for improvement based on missed call statistics.
 
 ## Follow-Up Steps
+
 - Gather existing call logs and evaluate the current process for handling missed calls.
 - Implement changes incrementally and test for effectiveness.
 
 ## Conclusion
+
 This document outlines the steps to enhance the response to missed calls, improving customer service and engagement.

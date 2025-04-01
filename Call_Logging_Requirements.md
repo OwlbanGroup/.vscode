@@ -1,6 +1,7 @@
 # Call Logging System Requirements
 
 ## User Interface Requirements
+
 1. **Information Displayed**
    - What specific information should be displayed in the call logs?
      - Caller ID
@@ -19,6 +20,7 @@
      - Exporting data
 
 ## Technical Requirements
+
 1. **Preferred Technologies**
    - What technologies or frameworks do you prefer for the development?
      - Frontend (e.g., React, Angular, plain HTML/CSS/JavaScript)
@@ -30,6 +32,7 @@
      - MongoDB
 
 ## User Access
+
 1. **Access Levels**
    - Who will have access to the system? Are there different roles that need to be considered?
      - Admin
@@ -39,4 +42,5 @@
    - Should there be any authentication or authorization mechanisms in place?
 
 ## Conclusion
+
 This document outlines the requirements for the call logging system. Feedback and additional details are needed to proceed with development.

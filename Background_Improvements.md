@@ -1,9 +1,11 @@
 # Background Improvements for 3D AI Agents
 
 ## Objective
+
 Enhance the quality and detail of backgrounds in which 3D AI agents operate to create a more immersive experience.
 
 ## Areas of Focus
+
 1. **Detailed Environments**
    - Create detailed 3D models for environmental elements such as trees, buildings, and terrain.
    - Use high-resolution textures for environmental assets.
@@ -21,8 +23,10 @@ Enhance the quality and detail of backgrounds in which 3D AI agents operate to c
    - Use ambient occlusion techniques to enhance depth and realism.
 
 ## Follow-Up Steps
+
 - Gather existing background assets and evaluate their quality.
 - Implement changes incrementally and test for visual quality.
 
 ## Conclusion
+
 This document outlines the steps to enhance the backgrounds for 3D AI agents.

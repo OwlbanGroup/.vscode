@@ -1,9 +1,11 @@
 # 3D AI Agents and Backgrounds Improvement Plan
 
 ## Objective
+
 Enhance the realism of 3D AI agents and their backgrounds.
 
 ## Areas of Focus
+
 1. **Textures**
    - Improve texture quality for agents and backgrounds.
    - Use high-resolution textures and normal maps for added detail.
@@ -25,12 +27,15 @@ Enhance the realism of 3D AI agents and their backgrounds.
    - Optimize rendering settings for better performance without sacrificing quality.
 
 ## Tools and Frameworks
+
 - Consider using game engines like Unity or Unreal Engine for enhanced graphics capabilities.
 - Utilize 3D modeling software like Blender for creating and refining models.
 
 ## Follow-Up Steps
+
 - Gather existing assets and evaluate their current quality.
 - Implement changes incrementally and test for performance and visual quality.
 
 ## Conclusion
+
 This plan outlines the steps to enhance the realism of 3D AI agents and their backgrounds. Further details can be added as the project progresses.

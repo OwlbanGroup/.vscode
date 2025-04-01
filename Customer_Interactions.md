@@ -1,6 +1,7 @@
 # Customer Interactions for 3D AI Agents
 
 ## Objective
+
 Define potential interactions that 3D AI agents may have with users to enhance realism and engagement.
 
 ## Interaction Scenarios
@@ -26,9 +27,11 @@ Define potential interactions that 3D AI agents may have with users to enhance r
    - Example: "I have successfully booked your appointment. Is there anything else I can help you with?"
 
 ## Follow-Up Steps
+
 - Develop dialogue scripts based on these scenarios.
 - Implement voice recognition and response capabilities for a more interactive experience.
 - Test interactions with users to gather feedback and improve.
 
 ## Conclusion
+
 This document outlines potential customer interactions for 3D AI agents, which can be used to enhance their realism and user engagement.

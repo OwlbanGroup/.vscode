@@ -1,9 +1,11 @@
 # Lighting Improvements for 3D AI Agents
 
 ## Objective
+
 Enhance the lighting setup for 3D AI agents and their environments to create a more realistic atmosphere.
 
 ## Areas of Focus
+
 1. **Dynamic Lighting**
    - Implement dynamic lighting sources that change based on the environment and time of day.
    - Use point lights, spotlights, and directional lights to create depth.
@@ -21,8 +23,10 @@ Enhance the lighting setup for 3D AI agents and their environments to create a m
    - Use warm colors for cozy environments and cool colors for more dramatic settings.
 
 ## Follow-Up Steps
+
 - Evaluate existing lighting setups and identify areas for improvement.
 - Implement changes incrementally and test for visual quality.
 
 ## Conclusion
+
 This document outlines the steps to enhance the lighting for 3D AI agents and their backgrounds.

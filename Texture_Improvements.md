@@ -1,9 +1,11 @@
 # Texture Improvements for 3D AI Agents
 
 ## Objective
+
 Enhance the quality and realism of textures used for 3D AI agents and their environments.
 
 ## Areas of Focus
+
 1. **High-Resolution Textures**
    - Use high-resolution images for skin, clothing, and other surfaces.
    - Consider using texture atlases to optimize performance.
@@ -21,8 +23,10 @@ Enhance the quality and realism of textures used for 3D AI agents and their envi
    - Use procedural generation techniques for unique textures.
 
 ## Follow-Up Steps
+
 - Gather existing texture assets and evaluate their quality.
 - Implement changes incrementally and test for visual quality.
 
 ## Conclusion
+
 This document outlines the steps to enhance the textures for 3D AI agents and their backgrounds.
