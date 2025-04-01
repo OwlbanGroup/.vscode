@@ -6,10 +6,16 @@ const FeedbackForm = () => {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-        await axios.post('http://localhost:5000/api/feedback', { feedback });
-        setFeedback('');
-        alert('Feedback submitted successfully!');
-    };
+        try {
+            await axios.post('http://localhost:5000/api/feedback', { feedback });
+            setFeedback('');
+            alert('Feedback submitted successfully!');
+        } catch (error) {
+            console.error('Error submitting feedback:', error);
+            alert('There was an error submitting your feedback. Please try again.');
+        } // Closing brace for the try-catch block
+
+    }; // Closing brace for the handleSubmit function
 
     return (
         <form onSubmit={handleSubmit}>
